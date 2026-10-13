@@ -90,7 +90,7 @@ export default function Products() {
   return (
     <div className="app">
       <header className="topbar">
-        <div className="brand"><span className="brand-mark">▲</span> Stockroom</div>
+        <div className="brand"><span className="brand-mark">▲</span> Laboratory 6</div>
         <button className="btn btn-ghost" onClick={logout}>Sign out</button>
       </header>
 
