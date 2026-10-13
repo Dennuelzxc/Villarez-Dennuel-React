@@ -2,11 +2,8 @@ export default function AuthShell({ title, subtitle, children }) {
   return (
     <div className="auth">
       <div className="auth-aside">
-        <div className="brand">
-          <span className="brand-mark">▲</span> Stockroom
-        </div>
-        <h2>Keep every product<br />in one place.</h2>
-        <p>Add, edit and track your catalogue with a fast, focused workspace.</p>
+        <h2>Laboratory 6<br />Web Development 2</h2>
+        <p>Simple CRUD Application</p>
         <div className="aside-orb orb-1" />
         <div className="aside-orb orb-2" />
       </div>
